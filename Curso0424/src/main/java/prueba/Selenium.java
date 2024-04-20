@@ -9,6 +9,8 @@ public class Selenium {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.twitter.com");
 		driver.get("https://www.twitter.com");
+		
+		driver.get("https://www.twitter.com");
 	}
 
 }
